@@ -48,5 +48,5 @@ Python | SQL | Power BI | Tableau | Excel | Pandas | NumPy | Git | GitHub
 - Creating Power BI and Tableau dashboards
 - Exploring opportunities in Data Analytics and Business Intelligence
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+- LinkedIn: [https://www.linkedin.com/in/thuukakula-siva-681335417/]
+- Email: [sivareddy01245@gmail.com]
