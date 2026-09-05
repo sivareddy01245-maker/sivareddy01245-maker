@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Thuukakula Siva 👋
 
-<!--
-**sivareddy01245-maker/sivareddy01245-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python | SQL | Power BI | Tableau | Excel
 
-Here are some ideas to get you started:
+I am a Data Analyst focused on transforming data into meaningful insights and
+interactive dashboards that support business decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- Python
+- SQL
+- Power BI
+- Tableau
+- Advanced Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+
+## 📊 Featured Projects
+
+### 🛒 E-Commerce Return Rate Reduction Analysis
+- Analyzed customer return patterns across products, categories and locations
+- Used Python and SQL for data cleaning and analysis
+- Built interactive Power BI dashboards
+- Developed insights to identify high-risk products and return patterns
+
+### 🍴 Zomato Data Analysis & Dashboard
+- Performed data analysis using Excel, SQL, Tableau and Power BI
+- Created interactive dashboards
+- Analyzed restaurant, rating and business-related trends
+
+### 📈 SQL Data Analysis
+- Created SQL queries for data extraction and analysis
+- Used joins, aggregations, subqueries and analytical functions
+- Worked with datasets to identify business insights
+
+## 💻 Tools & Technologies
+
+Python | SQL | Power BI | Tableau | Excel | Pandas | NumPy | Git | GitHub
+
+## 🎯 Currently
+
+- Building data analytics projects
+- Improving SQL and Python skills
+- Creating Power BI and Tableau dashboards
+- Exploring opportunities in Data Analytics and Business Intelligence
+
+- LinkedIn: [Add your LinkedIn URL]
+- Email: [Add your professional email]
