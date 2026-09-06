@@ -1,14 +1,14 @@
 <div align="center">
 
-<h6>Vinod Dasari</h6>
+<h6>Shiva Thukakula</h6>
 
 <sub><b>Data Analyst</b> | Aspiring Data Scientist</sub>
 
 <sub>SQL · Python · Pandas · Tableau · Power BI · Excel</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinoddasari2/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vinoddasari2/](https://www.linkedin.com/in/thuukakula-siva-681335417/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sivareddy01245-maker)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sivareddy01245@gmail.com)
 
 </div>
 
@@ -91,11 +91,11 @@ Built dashboards and conducted analysis during Data Analyst Internship at AI Var
 
 <h2>Education</h2>
 
-**[Your Degree]**
+**[B.Tech]**
 
-[Your College Name]
+[Siddartha Institute Of Science & Technology]
 
-[CGPA/Percentage] | [Start Year] – [End Year]
+[63%] | [2020] – [2024]
 
 <h2>Additional Technical Strengths</h2>
 
